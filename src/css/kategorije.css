@@ -1,0 +1,58 @@
+.Card2{
+    width: 200px ;
+    align-items: center;
+    margin: 25px;
+   
+    box-shadow: 8px 8px 8px 8px rgba(251, 0, 255, 0.2);
+    padding: 13px;
+    text-align: center;
+    background-color: #f1f1f1;
+    height: 250px;
+    text-transform: uppercase;
+
+}
+#kartica{
+    border-radius: 25px;
+     border: 2px solid #000;
+}
+.divkartice{
+    display: flex;
+    flex-wrap: wrap;
+  
+}
+.slike
+{
+   padding-left: 25px;
+   padding-right: 25px;
+    height: 100px;
+}
+.div{
+    height: 100vh;
+     background-color: #f1f1f1;
+}
+.div {margin: 0 -5px;}
+
+  @media screen and (max-width: 600px) {
+    .divkartice {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+.div:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn{
+    margin-top: 10px;
+  
+}
+#buttonc
+{
+  color: white;
+  background-color: #000; 
+}

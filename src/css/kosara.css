@@ -1,0 +1,103 @@
+.divkosara
+{
+    background-color: white;
+}
+.karticakosara
+{
+    width: 60%;
+    height: 90px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-radius: 30px;
+    margin-bottom: 50px;
+   
+}
+.karticabody{
+    background-color: white;
+    display: flex;
+    border-style: dashed;
+    border-color: purple;
+}
+
+.divbuttoni{
+    display: block;
+    position: absolute;
+    right: 0;
+    top:0;
+    width: 100px;
+    margin-right: 20px;
+    margin-top: 8px;
+}
+.divbuttoni >button{
+    height: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+.broj{
+width: 30px;
+margin: auto;
+    align-self: center;
+    text-align: center;
+    color: rgb(0, 0, 0);
+  border-style: dashed;
+  border-radius: 10px;
+}
+#img{
+    width: 100px;
+}
+.tekstovi{
+    display: block;
+    margin-left: 50px;
+}
+
+.potvrdi{
+    width: 200px;
+    margin: auto;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+.cijena{
+    right: 0;
+    top:0;
+    
+}
+.aaa{
+    height: 100vh;
+    background-color: white;
+    margin-bottom: 20px;
+}
+.cijbut{
+    width: 220px;
+    position: absolute;
+    right: 0;
+    top:100;
+    margin-right: 10px;
+    border-style: dotted;
+}
+.cijbut > p{
+    margin-left: 90px;
+    font-weight: bold;
+}
+.prazni{
+    height: 40px;
+   background-color: transparent;
+  }
+  .slikamodal{
+    width: 200px;
+    height: 200px;
+    margin-left: 110px;
+  }
+  .modaltitle
+  {
+    font-weight: bold;
+  }
+  .brojracunaa{
+    color: black;
+    pointer-events: none;
+  }

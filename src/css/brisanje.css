@@ -1,0 +1,31 @@
+#table
+{
+    color: aliceblue;
+    border: 1px solid;
+  
+}
+.divtabl{
+    margin: 20px 30px 0px 30px;
+    align-items: center;
+   
+}
+.labell{
+    color: aliceblue;
+}
+#containeredit{
+    margin-top: 150px;
+    align-items: center;
+    border-style: solid;
+    border-color: aliceblue;
+    border-radius: 17px;
+}
+.buttonbrisi
+{
+    background-color: aliceblue;
+    color: black;
+    margin-top: 15px;
+}
+#linkazuriraj{
+    background-color: black;
+    color: aliceblue;
+}
